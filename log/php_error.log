@@ -1,0 +1,19 @@
+2021-07-13 07:07:45 Message==> No data supplied for parameters in prepared statement
+2021-07-13 07:07:23 Message==> Column 'country' cannot be null
+2021-07-13 08:07:25 Message==> Column 'country' cannot be null
+2021-07-13 08:07:31 Message==> Column 'country' cannot be null
+2021-07-13 11:07:19 Message==> Column 'country' cannot be null
+2021-07-13 12:07:53 Message==> Column 'country' cannot be null
+2021-07-13 12:07:28 Message==> Column 'country' cannot be null
+2021-07-13 12:07:12 Message==> Column 'country' cannot be null
+2021-07-13 12:07:59 Message==> Column 'country' cannot be null
+2021-07-14 11:07:48 Message==> Column 'country' cannot be null
+2021-07-14 11:07:26 Message==> Column 'country' cannot be null
+2021-07-14 11:07:48 Message==> Column 'country' cannot be null
+2021-07-14 12:07:12 Message==> Column 'country' cannot be null
+2021-07-15 06:07:10 Message==> Column 'country' cannot be null
+2022-03-17 01:03:27 Message==> Error Decreasing stockNo data supplied for parameters in prepared statement
+2022-03-17 01:03:20 Message==> Error Decreasing stockNo data supplied for parameters in prepared statement
+2022-03-17 01:03:25 Message==> Error Decreasing stockNo data supplied for parameters in prepared statement
+2022-03-23 06:03:15 ERROR updating Inventory Stock.
+ Message==> 
