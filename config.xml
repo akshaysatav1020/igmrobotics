@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<data>
+	<appversion>1</appversion>
+  	<password>Prabu</password>
+  	<dbversion>1</dbversion>
+  	<tablecount>18</tablecount>
+  	<eurorate>80.16</eurorate>
+  	<tables>
+    	<table>../clients/log_2018-04-19_14-47 (copy).sql</table>
+    	<table>../clients/log_2018-04-19_14-47.sql</table>
+    	<table>../clients/log_2018-04-19_14-48.sql</table>
+  	</tables>
+  	<rack>12</rack>
+  	<floor>10</floor>
+</data>
